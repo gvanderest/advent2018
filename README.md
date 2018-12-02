@@ -1,4 +1,4 @@
-# Advent of Code 2018 - Learning Rust
+# Advent of Code - Learning Rust
 
 ## Why?
 
